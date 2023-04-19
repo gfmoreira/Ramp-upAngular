@@ -22,7 +22,8 @@ Agora iremos trabalhar no primeiro modulo para rampagem de nosso aprendizado.
 # Instalação do DDS2
 
 - https://vanilla.delldesignsystem.com/
-  // Realize a importação do DDS2 via CDN
+
+// Realize a importação do DDS2 via CDN
 
 ## Apresentação de resultado
 
