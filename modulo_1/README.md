@@ -10,7 +10,7 @@ Agora iremos trabalhar no primeiro modulo para rampagem de nosso aprendizado.
 
 - Criação de um novo projeto em Angular.
 - Importação do DDS2 via CDN.
-- Criação de dois componentes de su preferencia.
+- Criação de dois componentes de sua preferencia.
 - Apresenta-los na tela inicial da aplicão.
 
 ## Material de Apoio
