@@ -8,10 +8,10 @@ Agora iremos trabalhar no primeiro modulo para rampagem de nosso aprendizado.
 
 ## Objetivo
 
-- Criação de um novo projeto em Angular.
-- Importação do DDS2 via CDN.
-- Criação de dois componentes de sua preferencia.
-- Apresenta-los na tela inicial da aplicão.
+• Criação de um novo projeto em Angular.
+• Importação do DDS2 via CDN.
+• Criação de dois componentes de sua preferência.
+• Apresenta-los na tela inicial da aplicação.
 
 ## Material de Apoio
 
@@ -25,6 +25,6 @@ Agora iremos trabalhar no primeiro modulo para rampagem de nosso aprendizado.
 
 // Realize a importação do DDS2 via CDN
 
-## Apresentação de resultado
+## Apresentação de resultados
 
 Faça um pull request com o resultado em /docs/<nome.usuario>/modulo-1/
