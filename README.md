@@ -8,5 +8,5 @@ Iremos realizar a criação independente de cada componente como se estivéssemo
 ## Modulo 01
 Criação do projeto em Angular e importação do DDS2 via CDN.
 
-## Modulo 02 (Em desenvolvimento)
-Iremos realizar o compartilhamento de dados e aprender sobre renderização condicional.
+## Modulo 02
+Iremos realizar o compartilhamento de dados e renderização condicional assim como chamar um evento quando clicamos no botão.
