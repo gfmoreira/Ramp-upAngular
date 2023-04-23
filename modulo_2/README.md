@@ -8,9 +8,13 @@ Agora iremos realizar o compartilhamento de dados, renderização condicional e 
 
 # Objetivo
 
-- Crie um evento no componente de botão para que mostre/esconda um paragrafo com uma mensagem.
+- Crie um evento no componente de botão para que mostre/esconda um parágrafo com uma mensagem.
 - Realize o compartilhamento de dados entre componentes pai e filho para que possa mudar o texto e classe do botão.
-- Após realizar o compartilhamento, faça um botão para cada cor padrão do DDS2, Default, Destructive, Transactional, Editorial e Editorial Light
+- Após realizar o compartilhamento dos dados, faça um botão para cada cor padrão do DDS2:
+    - Default, Destructive
+    - Transactional
+    - Editorial
+    - Editorial Light
 - No componente de Dropdown, faça com que não possua itens listados, após clicar em um botão, seja carregada uma lista para este Dropdown.
 - Apresenta-los na tela inicial da aplicação.
 
